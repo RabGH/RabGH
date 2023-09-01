@@ -14,7 +14,7 @@
         </a>
 </div>
         <a href="https://github.com/RabGH/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabGH&layout=compact" alt="Top Languages">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabGH&layout=compact&bg_color=00000000" alt="Top Languages">
       <div>    
         </a>
         <h2>🌐 Live Sites</h2>

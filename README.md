@@ -6,17 +6,21 @@
 </head>
 <body>
     <div style="text-align: center;">
-        <h2>Hi! 👋</h2>
+        <h1>Hi! 👋</h1>
         <p>I'm Rabii Ghais, a full-stack web developer passionate about crafting exceptional digital experiences. I specialize in creating dynamic and responsive web applications with a focus on both frontend and backend technologies. Here's a glimpse of my GitHub profile and some of my live projects.</p>
 <div>
         <a href="https://github.com/RabGH/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=RabGH&show_icons=true&bg_color=00000000&rank_icon=github" alt="RabGH's GitHub stats">
         </a>
-</div>
-        <a href="https://github.com/RabGH/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabGH&layout=compact&bg_color=00000000" alt="Top Languages">
+    </div>
+<a href="https://github.com/RabGH/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabGH&layout=compact&bg_color=00000000" alt="Top Languages">
       <div>    
         </a>
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
         <h2>🌐 Live Sites</h2>
         <p>Here are some of my live websites:</p>
         <ul>

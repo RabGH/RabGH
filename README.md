@@ -16,15 +16,6 @@
         <a href="https://github.com/RabGH/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabGH&layout=compact&bg_color=00000000" alt="Top Languages">
         </a>
-        <h2>🌐 Live Sites</h2>
-        <p>Here are some of my live websites:</p>
-        <ul>
-            <li><a href="https://rabiighais.vercel.app/">Portfolio Website</a></li>
-            <li><a href="https://zakpropertiesclient.vercel.app/">Zak Properties Website</a></li>
-            <li><a href="https://spredit.vercel.app/">Spredit - Community-Driven Reddit Clone</a></li>
-            <li><a href="https://locofygymproject.vercel.app/">Locofy Gym Project</a></li>
-            <li><a href="https://gymproject-five.vercel.app/">Gym Project</a></li>
-        </ul>
     </div>
     <div style="text-align: center;">
         <h2>Additional Information</h2>
